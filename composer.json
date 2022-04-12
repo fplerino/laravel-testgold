@@ -1,0 +1,22 @@
+{
+    "name": "testingabc_gold/gold",
+    "description": "testing abcd",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^8",
+        "php": "^7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rino",
+            "email": "wengkin@fple.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tete\\gold\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
