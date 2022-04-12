@@ -3,7 +3,7 @@
     "description": "testing abcd",
     "type": "library",
     "require": {
-        "illuminate/support": "^8",
+        "illuminate/support": "^8.0",
         "php": "^7.0|^8.0"
     },
     "license": "MIT",
